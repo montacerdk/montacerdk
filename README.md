@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painter!
 
-- 🌱 I love JavaScript and its Ecosystem.
+- 💻 I love JavaScript and its Ecosystem.
 - 🥅 2021 Goals: Learn something new everyday - Improve my problem solving skills.
 - 👯 I’m looking to create more stories on medium to share knowledge with community.
 - ⚡ Fun fact: I love to draw and watch historical and scientific documentaries.
@@ -10,7 +10,7 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 
 ---
 
-### Connect with me
+### 💬 Connect with me
 
 - [Twitter](https://twitter.com/montacerdk)
 - [LinkedIn](https://www.linkedin.com/in/montacerdk/)
@@ -29,7 +29,6 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 
 ---
 
-<details>
-  <summary> GitHub Stats</summary>
-  <img align="left" alt="montacerdk's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=montacerdk&show_icons=true&hide_border=true" />
-</details>
+### 🏆 GitHub Stats
+
+<img align="left" alt="montacerdk's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=montacerdk&show_icons=true&hide_border=true" />
