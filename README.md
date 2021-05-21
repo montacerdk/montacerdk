@@ -26,9 +26,3 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 ### 📕 Tech Blog Posts
 
 - [Choose the right way to organize your code in a Git repository](https://montacerdk.medium.com/choose-the-right-way-to-organize-your-code-in-a-git-repository-a900bf52e326)
-
----
-
-### 🏆 GitHub Stats
-
-<img align="left" alt="montacerdk's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=montacerdk&show_icons=true&hide_border=true" />
