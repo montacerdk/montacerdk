@@ -10,13 +10,6 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 
 ---
 
-### 💬 Connect with me
-
-- [Twitter](https://twitter.com/montacerdk)
-- [LinkedIn](https://www.linkedin.com/in/montacerdk/)
-
----
-
 ### 📕 Tech Blog Posts
 
 - [Choose the right way to organize your code in a Git repository](https://montacerdk.medium.com/choose-the-right-way-to-organize-your-code-in-a-git-repository-a900bf52e326)
@@ -27,3 +20,10 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 ### 📺 YouTube Videos - Live sessions - Worksops
 
 - [Git fundamentals presented for Tunisian software engineering students ](https://www.youtube.com/watch?v=p3NiagnWF4o)
+
+---
+
+### 💬 Connect with me
+
+- [Twitter](https://twitter.com/montacerdk)
+- [LinkedIn](https://www.linkedin.com/in/montacerdk/)
