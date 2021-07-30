@@ -17,12 +17,13 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 
 ---
 
-### 📺 YouTube Videos - Live sessions - Worksops
-
-- [Git fundamentals presented for Tunisian software engineering students ](https://www.youtube.com/watch?v=p3NiagnWF4o)
-
----
-
 ### 📕 Tech Blog Posts
 
 - [Choose the right way to organize your code in a Git repository](https://montacerdk.medium.com/choose-the-right-way-to-organize-your-code-in-a-git-repository-a900bf52e326)
+- [Login with Facebook in React Native and Nest.js](https://montacerdk.medium.com/login-with-facebook-in-react-native-and-nest-js-39730e76b89)
+
+---
+
+### 📺 YouTube Videos - Live sessions - Worksops
+
+- [Git fundamentals presented for Tunisian software engineering students ](https://www.youtube.com/watch?v=p3NiagnWF4o)
