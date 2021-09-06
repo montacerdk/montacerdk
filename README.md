@@ -14,6 +14,7 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 
 - [Choose the right way to organize your code in a Git repository](https://montacerdk.medium.com/choose-the-right-way-to-organize-your-code-in-a-git-repository-a900bf52e326)
 - [Login with Facebook in React Native and Nest.js](https://montacerdk.medium.com/login-with-facebook-in-react-native-and-nest-js-39730e76b89)
+- [Setup & Dockerize a React / Nest Monorepo application](https://montacerdk.medium.com/setup-dockerize-a-react-nest-monorepo-application-7a800060bd63)
 
 ---
 
