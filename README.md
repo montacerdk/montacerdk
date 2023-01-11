@@ -3,8 +3,6 @@
 I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painter!
 
 - 💻 I love JavaScript and its Ecosystem.
-- 🥅 2022 Goals: Learn something new everyday.
-- 👯 I’m working on creating more stories on medium to share knowledge with community.
 - ⚡ Fun fact: I love to draw and watch historical and scientific documentaries.
 - 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
 
