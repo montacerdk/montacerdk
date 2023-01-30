@@ -8,7 +8,7 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 
 ---
 
-### 📕 Certificates and achievements
+### 📜 Certificates and achievements
 
 - [Open.js - Node.js Application Developer Certificate](https://www.credly.com/earner/earned/badge/f42b9299-4e32-47f3-a84a-1e11eec12c3a)
 
