@@ -8,6 +8,12 @@ I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painte
 
 ---
 
+### 📕 Certificates and achievements
+
+- [Open.js - Node.js Application Developer Certificate](https://www.credly.com/earner/earned/badge/f42b9299-4e32-47f3-a84a-1e11eec12c3a)
+
+---
+
 ### 📕 Tech Blog Posts
 
 - [Choose the right way to organize your code in a Git repository](https://montacerdk.medium.com/choose-the-right-way-to-organize-your-code-in-a-git-repository-a900bf52e326)
