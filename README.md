@@ -3,14 +3,14 @@
 I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painter!
 
 - 💻 I love JavaScript and its Ecosystem.
-- ⚡ Fun fact: I love to draw and watch historical and scientific documentaries.
+- ⚡ I love to draw and watch historical and scientific documentaries.
 - 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
 
 ---
 
 ### 📜 Certificates and achievements
 
-- [Open.js - Node.js Application Developer Certificate](https://www.credly.com/earner/earned/badge/f42b9299-4e32-47f3-a84a-1e11eec12c3a)
+- [Linux Foundation - Node.js Application Developer Certificate](https://www.credly.com/earner/earned/badge/f42b9299-4e32-47f3-a84a-1e11eec12c3a)
 
 ---
 
