@@ -1,10 +1,8 @@
-# Montacer - AKA Monta
+### 🙋🏻‍♂️ Montacer Dkhilali
 
-I'm a Full Stack Web Developer,
-
-- 💻 I love JavaScript and its Ecosystem.
-- ⚡ I love to draw and watch historical and scientific documentaries.
-- 🔭 I'm developing my personal website and portfolio. Will release a version ASAP!
+- 💻 I'm a Full Stack Web Developer, I love JavaScript and its Ecosystem.
+- 🖌 I'm a professionnel drawer and painter, checkout my [Portfolio on Instagram](https://instagram.com/montacerart)
+- 💜 I love to draw and watch historical and scientific documentaries.
 
 ---
 
