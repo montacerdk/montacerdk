@@ -1,6 +1,6 @@
-# Hi there, I'm Montacer - AKA Monta 👋
+# Montacer - AKA Monta
 
-I'm a Full Stack Web - Chatbot Developer, Rescuer - Volunteer, Drawer and Painter!
+I'm a Full Stack Web Developer,
 
 - 💻 I love JavaScript and its Ecosystem.
 - ⚡ I love to draw and watch historical and scientific documentaries.
