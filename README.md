@@ -8,8 +8,8 @@
 
 ### 📜 Certificates and achievements
 
-- [Linux Foundation - Node.js Application Developer Certificate][https://www.credly.com/earner/earned/badge/f42b9299-4e32-47f3-a84a-1e11eec12c3a](https://www.credly.com/badges/f42b9299-4e32-47f3-a84a-1e11eec12c3a/public_url)
-- [Amazon Web services - AWS Developer Associate Certificate](https://www.credly.com/earner/earned/badge/f42b9299-4e32-47f3-a84a-1e11eec12c3a](https://www.credly.com/badges/6b4a2d98-2f20-4c59-9446-91adfd75af1d/public_url)
+- [Linux Foundation - Node.js Application Developer Certificate](https://www.credly.com/badges/f42b9299-4e32-47f3-a84a-1e11eec12c3a/public_url)
+- [Amazon Web services - AWS Developer Associate Certificate](https://www.credly.com/badges/6b4a2d98-2f20-4c59-9446-91adfd75af1d/public_url)
 
 ---
 
