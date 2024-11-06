@@ -30,5 +30,4 @@
 
 ### 💬 Connect with me
 
-- [Twitter](https://twitter.com/montacerdk)
 - [LinkedIn](https://www.linkedin.com/in/montacerdk/)
