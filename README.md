@@ -1,6 +1,6 @@
 ### 🙋🏻‍♂️ Montacer Dkhilali
 
-- 💻 I'm a Web Developer, I love JavaScript and its Ecosystem
+- 💻 I'm a Software Engineer, Software Solutions Architect, I love JavaScript and its Ecosystem
 - 🖌 I'm a professional drawer and painter, checkout my [Portfolio on Instagram](https://instagram.com/montacerart)
 - 💜 I love historical and scientific documentaries
 
