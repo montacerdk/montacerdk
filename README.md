@@ -9,9 +9,10 @@
 ### 📜 Certificates and achievements
 
 - [Linux Foundation - Node.js Application Developer Certificate](https://www.credly.com/badges/f42b9299-4e32-47f3-a84a-1e11eec12c3a)
-- [Amazon Web Services - AWS Certified Developer - Associate](https://www.credly.com/badges/6b4a2d98-2f20-4c59-9446-91adfd75af1d)
 - [Amazon Web Services - AWS Certified AI Practitioner - Foundational](https://www.credly.com/badges/b9e8f6b8-0699-4d67-8619-4694893f46c1)
+- [Amazon Web Services - AWS Certified Developer - Associate](https://www.credly.com/badges/6b4a2d98-2f20-4c59-9446-91adfd75af1d)
 - [Amazon Web Services - AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/73f48ef0-dafb-4239-bffe-dd71ef45b680)
+- [Amazon Web Services - AWS Certified CloudOps Engineer – Associate](https://www.credly.com/badges/6f165e28-2c35-4e4f-a8e2-f8f06339330c)
 
 ---
 
